@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/alyoche/1b9381da-2351-4bff-9811-43342cbdbdec/9f228f89-79bd-4df1-a3d4-c1d4773b66dd/_apis/work/boardbadge/31e6b0fa-9efb-4394-91cc-6de311a69206)](https://dev.azure.com/alyoche/1b9381da-2351-4bff-9811-43342cbdbdec/_boards/board/t/9f228f89-79bd-4df1-a3d4-c1d4773b66dd/Microsoft.RequirementCategory)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
