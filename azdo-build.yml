@@ -1,7 +1,7 @@
 pool:
   vmImage: 'ubuntu-latest'
-trigger:
-  - master
+pr:
+- master
 steps:
   - task: Npm@1
     inputs:
